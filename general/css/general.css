@@ -1,0 +1,63 @@
+@font-face {
+	font-family: 'Poppins';
+	src: url(../fuentes/Poppins-Regular.ttf);
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Poppins';
+	src: url(../fuentes/Poppins-Bold.ttf);
+	font-weight: bold;
+}
+
+* {
+	font-family: 'Poppins';
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+p {
+	text-align: justify;
+	padding: 0px 100px;
+}
+
+h1 {
+	padding: 0px 100px;
+	color: green;
+}
+
+h2 {
+	padding: 0px 100px;
+	color: red;
+}
+
+.imagen {
+	padding: 10px 100px;
+	width: 100%;
+
+}
+
+li {
+	padding-left: 10px;
+	text-align: justify;
+}
+
+.lista2 {
+	padding-left: 10px;
+	text-align: justify;
+}
+
+ul, ol {
+	padding: 10px 120px;
+}
+
+.negrita {
+	font-weight: bold;
+}
+
+.tituloimagen {
+	color: rgb(0, 60, 255)
+}

@@ -1,0 +1,12 @@
+video {
+	width: 100%;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.audio {
+	padding-top: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

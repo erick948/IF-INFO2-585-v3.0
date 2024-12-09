@@ -1,0 +1,23 @@
+.cloud_types {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px 100px;
+}
+
+.imagen_nube {
+	flex: 0;
+	max-width: 100%
+}
+
+video {
+	width: 100%;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.audio {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

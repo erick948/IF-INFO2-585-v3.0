@@ -47,3 +47,30 @@
 	color: red;
 	text-decoration: none;
  }
+
+@media (max-width: 782px) {
+
+	.logo-cabecera-izquierda, .logo-cabecera-derecha {
+		display: none;
+	}
+
+	.header-title {
+		padding-right: 10px;
+		padding-left: 10px;
+		font-size: 16px;
+	}
+
+	.logo-cabecera-izquierda, .logo-cabecera-derecha {
+		flex: 0;
+	 }
+
+	 .boton {
+		border: solid rgb(255, 0, 0);
+		padding: 15px 30px;
+		font-size: large;
+		cursor: pointer;
+		border-radius: 10px;
+		background-color: white;
+		font-size: 16px;;
+	 }
+}

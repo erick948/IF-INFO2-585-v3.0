@@ -1,10 +1,5 @@
 .encabezado1 {
 	text-align: center;
-}
-@media (max-width: 782px) {
-.encabezado1 {
- padding-left: 0px;
-padding-right: 0px;
-text-align: center;
-}
+	padding-left: 0px;
+	padding-right: 0px;
 }

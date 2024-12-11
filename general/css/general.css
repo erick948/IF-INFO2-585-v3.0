@@ -5,7 +5,7 @@
 }
 
 @font-face {
-	font-family: 'Poppins';
+	font-family: 'Poppins';C
 	src: url(../fuentes/Poppins-Bold.ttf);
 	font-weight: bold;
 }
@@ -17,6 +17,8 @@
 a {
 	text-decoration: none;
 	color: black;
+	word-wrap: break-word;
+    	overflow-wrap: break-word;
 }
 
 p {
@@ -87,11 +89,5 @@ ul, ol {
 	.imagen {
 		padding: 10px 20px;
 		width: 100%;
-
-a {
-        text-decoration: none;
-        color: black;
-padding: 10px 20px;
-}
 	}
 }

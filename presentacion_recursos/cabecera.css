@@ -49,7 +49,7 @@
  }
 
 @media (max-width: 782px) {
-.logo-cabecera {
-	display: none;
+ .logo-cabecera-izquierda, .logo-cabecera-derecha {
+        display: none;
  }
 }

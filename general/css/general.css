@@ -87,5 +87,11 @@ ul, ol {
 	.imagen {
 		padding: 10px 20px;
 		width: 100%;
+
+a {
+        text-decoration: none;
+        color: black;
+padding: 10px 20px;
+}
 	}
 }

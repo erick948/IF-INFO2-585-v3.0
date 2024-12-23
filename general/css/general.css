@@ -154,4 +154,8 @@ video {
 		align-items: center;
 		justify-content: center;
 	}
+
+	.tituloimagen {
+		color: rgb(100, 136, 255);
+	}
 }

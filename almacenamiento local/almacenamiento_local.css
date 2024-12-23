@@ -10,14 +10,17 @@
 	max-width: 100%;
 }
 
-video {
-	width: 100%;
-	padding-left: 100px;
-	padding-right: 100px;
-}
-
 .audio {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+
+@media (max-width: 782px) {
+	.local_types {
+		display: inline-block;
+		align-items: center;
+		justify-content: space-between;
+		padding: 10px 20px;
+	}
 }

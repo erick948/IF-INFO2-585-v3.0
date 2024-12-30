@@ -4,6 +4,7 @@
 	background-size: cover;
 	height: 500px;
 	z-index: 0;
+	position: relative;
 }
 
 .titulo-principal {
